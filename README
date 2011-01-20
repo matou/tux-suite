@@ -16,5 +16,11 @@ This extremely simple script listenes to DBus messages coming from pidgin and
 reads all messages that are prefixed with "tux:".
 
 
+tux-shell (planned)
+-------------------
+
+A shell to control the droid.
+
+
 
 [0] <http://en.wikipedia.org/wiki/Tux_Droid>
