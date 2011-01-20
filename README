@@ -1,0 +1,20 @@
+Tux-Suite
+=========
+
+A few weeks ago I got myself a tuxdroid[0]. That little gui has a python API. I
+love python. And yesterday I decided that it was time to finally let tux do
+something. 
+
+
+Items of the tux suite
+======================
+
+tux-pidgin-listener
+-------------------
+
+This extremely simple script listenes to DBus messages coming from pidgin and
+reads all messages that are prefixed with "tux:".
+
+
+
+[0] <http://en.wikipedia.org/wiki/Tux_Droid>
