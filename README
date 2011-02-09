@@ -17,9 +17,21 @@ reads all messages that are prefixed with "tux:".
 
 
 tux-shell (planned)
--------------------
+---------
 
 A shell to control the droid.
+
+
+tux-mail-notifier (planned)
+-----------------
+
+I want the droid to notify me of new mail.
+
+
+tux-notification (planned)
+----------------
+
+A way for all kinds of notification through the droid.
 
 
 
